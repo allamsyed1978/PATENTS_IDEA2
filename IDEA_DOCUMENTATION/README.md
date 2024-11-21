@@ -59,6 +59,7 @@ Framework supports international campaigns with localized targeting.
 Reduces resource wastage and increases time-to-market for ad campaigns.
 
 **Claims**
+
 Claim 1:
 A system for dynamic ad insertion in streaming platforms, comprising:
 
